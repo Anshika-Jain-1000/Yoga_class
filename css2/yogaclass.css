@@ -1,0 +1,29 @@
+.navv{
+	margin-left: 110px;
+	margin-top:-75px;
+}
+.logo{
+	height:100px;
+	width: 80px;
+	margin-left: 30px;
+}
+.jumbo{
+	background-color: #6b9893;
+	margin-bottom: 0px;
+}
+.btn-primary{
+	background-color: white;
+	color: #6b9893;
+	font-weight: bold;
+	font-size: 20px;
+	margin-top: 50px;
+}
+
+.btn-light{
+	background-color: #6b9893;
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+	margin-top: 50px;
+}
+
